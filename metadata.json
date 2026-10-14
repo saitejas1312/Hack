@@ -1,0 +1,6 @@
+{
+  "name": "KrishiAI Mobile - Smart Farming Companion",
+  "description": "Smart regional agricultural advisory, live mandi market rates, micro-climate irrigation alerts, multilingual audio assistance, and real-time farmer insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
